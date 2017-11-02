@@ -1,0 +1,1029 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 2806,
+                    "for_kartid": "1511-2",
+                    "for_regdato": 19870225,
+                    "skr_sndato": 19590101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20060928,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Høgstad",
+                    "enh_komm": 1001,
+                    "enh_ssrobj_id": 2814,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Høgstad",
+                    "kom_fylkesnr": 10,
+                    "kpr_tekst": "Norge 1:50 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.099439, 58.220844]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "A",
+                    "enh_ssr_id": 3395,
+                    "for_kartid": "1211-1",
+                    "for_regdato": 19871104,
+                    "skr_sndato": 20020628,
+                    "enh_snmynd": "KLAGE",
+                    "for_sist_endret_dt": 20051010,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 3,
+                    "enh_snavn": "Tua",
+                    "enh_komm": 1119,
+                    "enh_ssrobj_id": 3409,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 68,
+                    "for_snavn": "Tuva",
+                    "kom_fylkesnr": 11,
+                    "kpr_tekst": "Norge 1:50 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [5.826189, 58.483136]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "A",
+                    "enh_ssr_id": 3857,
+                    "for_kartid": "AO009-5-1",
+                    "for_regdato": 20130604,
+                    "skr_sndato": 19950214,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20130604,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Valhaug",
+                    "enh_komm": 1101,
+                    "enh_ssrobj_id": 3871,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 8,
+                    "for_snavn": "Valhaugen",
+                    "kom_fylkesnr": 11,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.073200, 58.387325]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "V",
+                    "enh_ssr_id": 4043,
+                    "for_kartid": "AR011-5-4",
+                    "for_regdato": 20000302,
+                    "skr_sndato": 20010322,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20000302,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Moi",
+                    "enh_komm": 1112,
+                    "enh_ssrobj_id": 4057,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Moi",
+                    "kom_fylkesnr": 11,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.547861, 58.455967]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 4497,
+                    "for_kartid": "1311-1",
+                    "for_regdato": 19870916,
+                    "skr_sndato": 19610101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20060825,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Bø",
+                    "enh_komm": 1004,
+                    "enh_ssrobj_id": 4514,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Bø",
+                    "kom_fylkesnr": 10,
+                    "kpr_tekst": "Norge 1:50 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.789842, 58.469056]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 5495,
+                    "for_kartid": "AX007-5-4",
+                    "for_regdato": 19990115,
+                    "skr_sndato": 19730607,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 19990115,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Lia",
+                    "enh_komm": 1032,
+                    "enh_ssrobj_id": 5513,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Lien",
+                    "kom_fylkesnr": 10,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [7.110850, 58.260186]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 5866,
+                    "for_kartid": "1411-1",
+                    "for_regdato": 19870710,
+                    "skr_sndato": 19630101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 19931101,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Hola",
+                    "enh_komm": 1021,
+                    "enh_ssrobj_id": 5887,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Hola",
+                    "kom_fylkesnr": 10,
+                    "kpr_tekst": "Norge 1:50 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [7.457861, 58.352558]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 6186,
+                    "for_kartid": "",
+                    "for_regdato": 20030314,
+                    "skr_sndato": 19620101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20030314,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Solberg",
+                    "enh_komm": 935,
+                    "enh_ssrobj_id": 6207,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Solberg",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "N250 Kartdata"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [7.844922, 58.477144]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 6246,
+                    "for_kartid": "",
+                    "for_regdato": 20010419,
+                    "skr_sndato": 19620101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20030224,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Heia",
+                    "enh_komm": 935,
+                    "enh_ssrobj_id": 6267,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Heia",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [7.874228, 58.441189]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 7124,
+                    "for_kartid": "1511-1",
+                    "for_regdato": 19870303,
+                    "skr_sndato": 19630101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20060928,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Vatne",
+                    "enh_komm": 926,
+                    "enh_ssrobj_id": 7146,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Vatne",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "Norge 1:50 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.400033, 58.303000]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 8766,
+                    "for_kartid": "1212-2",
+                    "for_regdato": 19870901,
+                    "skr_sndato": 19580101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20090901,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Holmen",
+                    "enh_komm": 1114,
+                    "enh_ssrobj_id": 8792,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Holmen",
+                    "kom_fylkesnr": 11,
+                    "kpr_tekst": "Norge 1:50 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.096731, 58.617783]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 8858,
+                    "for_kartid": "AO014-5-4",
+                    "for_regdato": 19990603,
+                    "skr_sndato": 19770101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20081127,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Tuva",
+                    "enh_komm": 1114,
+                    "enh_ssrobj_id": 8885,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 8,
+                    "for_snavn": "Tua",
+                    "kom_fylkesnr": 11,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.128444, 58.575853]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 8952,
+                    "for_kartid": "AO013-5-3",
+                    "for_regdato": 19990602,
+                    "skr_sndato": 19580101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 19990602,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Gåshus",
+                    "enh_komm": 1101,
+                    "enh_ssrobj_id": 8979,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Gåshus",
+                    "kom_fylkesnr": 11,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.104814, 58.533689]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 9698,
+                    "for_kartid": "",
+                    "for_regdato": 19991001,
+                    "skr_sndato": 19700101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20030506,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Hove",
+                    "enh_komm": 1112,
+                    "enh_ssrobj_id": 9727,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Hove",
+                    "kom_fylkesnr": 11,
+                    "kpr_tekst": "N250 Kartdata"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.506128, 58.506981]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 11856,
+                    "for_kartid": "BL016-5-1",
+                    "for_regdato": 20080630,
+                    "skr_sndato": 19770101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20080630,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Svipte",
+                    "enh_komm": 919,
+                    "enh_ssrobj_id": 11891,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 6,
+                    "for_snavn": "Svipte",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.054694, 58.678258]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 11929,
+                    "for_kartid": "",
+                    "for_regdato": 20031002,
+                    "skr_sndato": 19770101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20110301,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Moseid",
+                    "enh_komm": 937,
+                    "enh_ssrobj_id": 11964,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 280,
+                    "for_snavn": "Moseid",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [7.778864, 58.638814]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 12175,
+                    "for_kartid": "",
+                    "for_regdato": 20031002,
+                    "skr_sndato": 19770101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20031002,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Bjoråheia",
+                    "enh_komm": 937,
+                    "enh_ssrobj_id": 12213,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 6,
+                    "for_snavn": "Bjoråheia",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [7.800839, 58.531158]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 13021,
+                    "for_kartid": "",
+                    "for_regdato": 20091117,
+                    "skr_sndato": 19770101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20091117,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Landeheia",
+                    "enh_komm": 928,
+                    "enh_ssrobj_id": 13061,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 2,
+                    "for_snavn": "Landeheia",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "N500 Kartdata"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.280219, 58.521053]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 14358,
+                    "for_kartid": "BU016-5-2",
+                    "for_regdato": 19990608,
+                    "skr_sndato": 19580101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 19990608,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Hope",
+                    "enh_komm": 901,
+                    "enh_ssrobj_id": 14401,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Hope",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [9.122911, 58.687303]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 16673,
+                    "for_kartid": "AQ021-5-1",
+                    "for_regdato": 20141222,
+                    "skr_sndato": 19780101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20141222,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Gorli",
+                    "enh_komm": 1129,
+                    "enh_ssrobj_id": 16727,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 10,
+                    "for_snavn": "Goli",
+                    "kom_fylkesnr": 11,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.307361, 58.900536]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 16733,
+                    "for_kartid": "1312-4",
+                    "for_regdato": 19880128,
+                    "skr_sndato": 19700101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20060816,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 3,
+                    "enh_snavn": "Kjosen",
+                    "enh_komm": 1122,
+                    "enh_ssrobj_id": 16787,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 60,
+                    "for_snavn": "Kjosen",
+                    "kom_fylkesnr": 11,
+                    "kpr_tekst": "Norge 1:50 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.331700, 58.878978]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 16793,
+                    "for_kartid": "",
+                    "for_regdato": 20001210,
+                    "skr_sndato": 19520101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20090902,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Øyren",
+                    "enh_komm": 1122,
+                    "enh_ssrobj_id": 16847,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Øyri",
+                    "kom_fylkesnr": 11,
+                    "kpr_tekst": "Sjøkart 1:50 000 - 1:100 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.280789, 58.845097]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 17117,
+                    "for_kartid": "",
+                    "for_regdato": 20090508,
+                    "skr_sndato": 19760101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20140129,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Kløfta",
+                    "enh_komm": 1046,
+                    "enh_ssrobj_id": 17172,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 20,
+                    "for_snavn": "Kløfta",
+                    "kom_fylkesnr": 10,
+                    "kpr_tekst": "N50 Kartdata"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.746517, 58.936464]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 17179,
+                    "for_kartid": "AU022-5-3",
+                    "for_regdato": 20050429,
+                    "skr_sndato": 19760101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20050429,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Flæen",
+                    "enh_komm": 1046,
+                    "enh_ssrobj_id": 17234,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 13,
+                    "for_snavn": "Flæen",
+                    "kom_fylkesnr": 10,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.761639, 58.912431]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 18305,
+                    "for_kartid": "",
+                    "for_regdato": 20000701,
+                    "skr_sndato": 19630101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20060418,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Gryte",
+                    "enh_komm": 938,
+                    "enh_ssrobj_id": 18363,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 112,
+                    "for_snavn": "Gryte",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "N50 Kartdata"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [7.646286, 58.857233]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 19376,
+                    "for_kartid": "BM022-5-4",
+                    "for_regdato": 20080412,
+                    "skr_sndato": 19810301,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20080412,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Kåsa",
+                    "enh_komm": 929,
+                    "enh_ssrobj_id": 19439,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 112,
+                    "for_snavn": "Kåsa",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.241094, 58.907181]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 20652,
+                    "for_kartid": "1612-4",
+                    "for_regdato": 19860714,
+                    "skr_sndato": 19810508,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20030430,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Olstad",
+                    "enh_komm": 929,
+                    "enh_ssrobj_id": 20715,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Olstad",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "Norge 1:50 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.521358, 58.812733]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 21006,
+                    "for_kartid": "BU023-5-1",
+                    "for_regdato": 20100713,
+                    "skr_sndato": 19810601,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20100830,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Sjåen",
+                    "enh_komm": 817,
+                    "enh_ssrobj_id": 21070,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 6,
+                    "for_snavn": "Sjåen",
+                    "kom_fylkesnr": 8,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [9.065800, 58.984325]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 21159,
+                    "for_kartid": "BU023-5-3",
+                    "for_regdato": 20100805,
+                    "skr_sndato": 19810601,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20100805,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Moen",
+                    "enh_komm": 817,
+                    "enh_ssrobj_id": 21224,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Moen",
+                    "kom_fylkesnr": 8,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [9.106286, 58.951875]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "A",
+                    "enh_ssr_id": 25199,
+                    "for_kartid": "",
+                    "for_regdato": 19991001,
+                    "skr_sndato": 20050228,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20090729,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Sørskår",
+                    "enh_komm": 1130,
+                    "enh_ssrobj_id": 25280,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Sørskor",
+                    "kom_fylkesnr": 11,
+                    "kpr_tekst": "N250 Kartdata"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [6.064953, 59.127228]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 27215,
+                    "for_kartid": "BF028-5-3",
+                    "for_regdato": 19990601,
+                    "skr_sndato": 19660101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 19990601,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Myrbui",
+                    "enh_komm": 940,
+                    "enh_ssrobj_id": 27305,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 111,
+                    "for_snavn": "Myrbui",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [7.491564, 59.165314]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 27504,
+                    "for_kartid": "1413-2",
+                    "for_regdato": 19870619,
+                    "skr_sndato": 19660101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20060816,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Mo",
+                    "enh_komm": 940,
+                    "enh_ssrobj_id": 27595,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Mo",
+                    "kom_fylkesnr": 9,
+                    "kpr_tekst": "Norge 1:50 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [7.571931, 59.065250]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 28185,
+                    "for_kartid": "1513-2",
+                    "for_regdato": 19870616,
+                    "skr_sndato": 19810615,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20021114,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Urdaråsen",
+                    "enh_komm": 830,
+                    "enh_ssrobj_id": 28279,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 6,
+                    "for_snavn": "Urdaråsen",
+                    "kom_fylkesnr": 8,
+                    "kpr_tekst": "Norge 1:50 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.456375, 59.211586]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 29603,
+                    "for_kartid": "BR024-5-1",
+                    "for_regdato": 20061019,
+                    "skr_sndato": 19810601,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20061019,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Reinsvassdalen",
+                    "enh_komm": 830,
+                    "enh_ssrobj_id": 29700,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 16,
+                    "for_snavn": "Reinsvassdalen",
+                    "kom_fylkesnr": 8,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.734633, 59.022708]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 31146,
+                    "for_kartid": "BW024-5-2",
+                    "for_regdato": 20100816,
+                    "skr_sndato": 19640101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20100816,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Skare",
+                    "enh_komm": 814,
+                    "enh_ssrobj_id": 31248,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Skare",
+                    "kom_fylkesnr": 8,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [9.357369, 59.018656]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "V",
+                    "enh_ssr_id": 31440,
+                    "for_kartid": "1713-2",
+                    "for_regdato": 19841023,
+                    "skr_sndato": 19950514,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20041027,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 5,
+                    "enh_snavn": "Meen",
+                    "enh_komm": 806,
+                    "enh_ssrobj_id": 31543,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 108,
+                    "for_snavn": "Meen",
+                    "kom_fylkesnr": 8,
+                    "kpr_tekst": "Norge 1:50 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [9.660278, 59.173103]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 893477,
+                    "for_kartid": "BS112-5-3",
+                    "for_regdato": 20040326,
+                    "skr_sndato": 19750101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20040326,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Fosskogan",
+                    "enh_komm": 1566,
+                    "enh_ssrobj_id": 2449365,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 10,
+                    "for_snavn": "Fosskogan",
+                    "kom_fylkesnr": 15,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.891986, 62.784244]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 893478,
+                    "for_kartid": "BS112-5-3",
+                    "for_regdato": 20040326,
+                    "skr_sndato": 19750101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20040326,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Brannhaugen",
+                    "enh_komm": 1566,
+                    "enh_ssrobj_id": 2449366,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 8,
+                    "for_snavn": "Brannhaugen",
+                    "kom_fylkesnr": 15,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.903625, 62.786019]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 893479,
+                    "for_kartid": "BS112-5-3",
+                    "for_regdato": 20040326,
+                    "skr_sndato": 19750101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20040326,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 2,
+                    "enh_snavn": "Nauståfossen",
+                    "enh_komm": 1566,
+                    "enh_ssrobj_id": 2449367,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 39,
+                    "for_snavn": "Nauståfossen",
+                    "kom_fylkesnr": 15,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.897067, 62.784131]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 893480,
+                    "for_kartid": "BS112-5-3",
+                    "for_regdato": 20040326,
+                    "skr_sndato": 19750101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20040326,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Tverråhamran",
+                    "enh_komm": 1566,
+                    "enh_ssrobj_id": 2449368,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 8,
+                    "for_snavn": "Tverråhamran",
+                    "kom_fylkesnr": 15,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.920614, 62.795192]
+                }
+            }, {
+                "type": "Feature",
+                "properties": {
+                    "skr_snskrstat": "G",
+                    "enh_ssr_id": 893481,
+                    "for_kartid": "BS114-5-2",
+                    "for_regdato": 20040326,
+                    "skr_sndato": 19700101,
+                    "enh_snmynd": "SK",
+                    "for_sist_endret_dt": 20040326,
+                    "enh_snspraak": "NO",
+                    "nty_gruppenr": 1,
+                    "enh_snavn": "Fæskårabbane",
+                    "enh_komm": 1566,
+                    "enh_ssrobj_id": 2449369,
+                    "enh_sntystat": "H",
+                    "enh_navntype": 8,
+                    "for_snavn": "Fæskårabbane",
+                    "kom_fylkesnr": 15,
+                    "kpr_tekst": "Økonomisk kartverk  1:5 000"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [8.983450, 62.904586]
+                }
+            }]
+}
