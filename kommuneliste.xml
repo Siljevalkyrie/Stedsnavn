@@ -1,0 +1,2155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<!--<ooo_calc_export scriptVersion="2.2.0_qdxml" scriptUpdate="2011-03-02" scriptURL="http://www.digitalimprint.com/misc/oooexport/" scriptAuthor="vjl"></ooo_calc_export>    -->
+
+	<Kommuner>
+		<Kommune>
+			<Kommunenr>Kommunenr</Kommunenr>
+			<Kommunenavn>Kommunenavn</Kommunenavn>
+			<Fylke>Fylke</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0101</Kommunenr>
+			<Kommunenavn>Halden kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0104</Kommunenr>
+			<Kommunenavn>Moss kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0105</Kommunenr>
+			<Kommunenavn>Sarpsborg kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0106</Kommunenr>
+			<Kommunenavn>Fredrikstad kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0111</Kommunenr>
+			<Kommunenavn>Hvaler kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0118</Kommunenr>
+			<Kommunenavn>Aremark kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0119</Kommunenr>
+			<Kommunenavn>Marker kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0121</Kommunenr>
+			<Kommunenavn>Rømskog kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0122</Kommunenr>
+			<Kommunenavn>Trøgstad kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0123</Kommunenr>
+			<Kommunenavn>Spydeberg kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0124</Kommunenr>
+			<Kommunenavn>Askim kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0125</Kommunenr>
+			<Kommunenavn>Eidsberg kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0127</Kommunenr>
+			<Kommunenavn>Skiptvet kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0128</Kommunenr>
+			<Kommunenavn>Rakkestad kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0135</Kommunenr>
+			<Kommunenavn>Råde kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0136</Kommunenr>
+			<Kommunenavn>Rygge kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0137</Kommunenr>
+			<Kommunenavn>Våler kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0138</Kommunenr>
+			<Kommunenavn>Hobøl kommune</Kommunenavn>
+			<Fylke>Østfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0211</Kommunenr>
+			<Kommunenavn>Vestby kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0213</Kommunenr>
+			<Kommunenavn>Ski kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0214</Kommunenr>
+			<Kommunenavn>Ås kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0215</Kommunenr>
+			<Kommunenavn>Frogn kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0216</Kommunenr>
+			<Kommunenavn>Nesodden kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0217</Kommunenr>
+			<Kommunenavn>Oppegård kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0219</Kommunenr>
+			<Kommunenavn>Bærum kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0220</Kommunenr>
+			<Kommunenavn>Asker kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0221</Kommunenr>
+			<Kommunenavn>Aurskog-Høland kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0226</Kommunenr>
+			<Kommunenavn>Sørum kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0227</Kommunenr>
+			<Kommunenavn>Fet kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0228</Kommunenr>
+			<Kommunenavn>Rælingen kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0229</Kommunenr>
+			<Kommunenavn>Enebakk kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0230</Kommunenr>
+			<Kommunenavn>Lørenskog kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0231</Kommunenr>
+			<Kommunenavn>Skedsmo kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0233</Kommunenr>
+			<Kommunenavn>Nittedal kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0234</Kommunenr>
+			<Kommunenavn>Gjerdrum kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0235</Kommunenr>
+			<Kommunenavn>Ullensaker kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0236</Kommunenr>
+			<Kommunenavn>Nes kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0237</Kommunenr>
+			<Kommunenavn>Eidsvoll kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0238</Kommunenr>
+			<Kommunenavn>Nannestad kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0239</Kommunenr>
+			<Kommunenavn>Hurdal kommune</Kommunenavn>
+			<Fylke>Akershus</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0301</Kommunenr>
+			<Kommunenavn>Oslo kommune</Kommunenavn>
+			<Fylke>Oslo</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0402</Kommunenr>
+			<Kommunenavn>Kongsvinger kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0403</Kommunenr>
+			<Kommunenavn>Hamar kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0412</Kommunenr>
+			<Kommunenavn>Ringsaker kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0415</Kommunenr>
+			<Kommunenavn>Løten kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0417</Kommunenr>
+			<Kommunenavn>Stange kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0418</Kommunenr>
+			<Kommunenavn>Nord-Odal kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0419</Kommunenr>
+			<Kommunenavn>Sør-Odal kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0420</Kommunenr>
+			<Kommunenavn>Eidskog kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0423</Kommunenr>
+			<Kommunenavn>Grue kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0425</Kommunenr>
+			<Kommunenavn>Åsnes kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0426</Kommunenr>
+			<Kommunenavn>Våler kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0427</Kommunenr>
+			<Kommunenavn>Elverum kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0428</Kommunenr>
+			<Kommunenavn>Trysil kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0429</Kommunenr>
+			<Kommunenavn>Åmot kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0430</Kommunenr>
+			<Kommunenavn>Stor-Elvdal kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0432</Kommunenr>
+			<Kommunenavn>Rendalen kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0434</Kommunenr>
+			<Kommunenavn>Engerdal kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0436</Kommunenr>
+			<Kommunenavn>Tolga kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0437</Kommunenr>
+			<Kommunenavn>Tynset kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0438</Kommunenr>
+			<Kommunenavn>Alvdal kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0439</Kommunenr>
+			<Kommunenavn>Folldal kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0441</Kommunenr>
+			<Kommunenavn>Os kommune</Kommunenavn>
+			<Fylke>Hedmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0501</Kommunenr>
+			<Kommunenavn>Lillehammer kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0502</Kommunenr>
+			<Kommunenavn>Gjøvik kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0511</Kommunenr>
+			<Kommunenavn>Dovre kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0512</Kommunenr>
+			<Kommunenavn>Lesja kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0513</Kommunenr>
+			<Kommunenavn>Skjåk kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0514</Kommunenr>
+			<Kommunenavn>Lom kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0515</Kommunenr>
+			<Kommunenavn>Vågå kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0516</Kommunenr>
+			<Kommunenavn>Nord-Fron kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0517</Kommunenr>
+			<Kommunenavn>Sel kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0519</Kommunenr>
+			<Kommunenavn>Sør-Fron kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0520</Kommunenr>
+			<Kommunenavn>Ringebu kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0521</Kommunenr>
+			<Kommunenavn>Øyer kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0522</Kommunenr>
+			<Kommunenavn>Gausdal kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0528</Kommunenr>
+			<Kommunenavn>Østre Toten kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0529</Kommunenr>
+			<Kommunenavn>Vestre Toten kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0532</Kommunenr>
+			<Kommunenavn>Jevnaker kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0533</Kommunenr>
+			<Kommunenavn>Lunner kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0534</Kommunenr>
+			<Kommunenavn>Gran kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0536</Kommunenr>
+			<Kommunenavn>Søndre Land kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0538</Kommunenr>
+			<Kommunenavn>Nordre Land kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0540</Kommunenr>
+			<Kommunenavn>Sør-Aurdal kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0541</Kommunenr>
+			<Kommunenavn>Etnedal kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0542</Kommunenr>
+			<Kommunenavn>Nord-Aurdal kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0543</Kommunenr>
+			<Kommunenavn>Vestre Slidre kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0544</Kommunenr>
+			<Kommunenavn>Øystre Slidre kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0545</Kommunenr>
+			<Kommunenavn>Vang kommune</Kommunenavn>
+			<Fylke>Oppland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0602</Kommunenr>
+			<Kommunenavn>Drammen kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0604</Kommunenr>
+			<Kommunenavn>Kongsberg kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0605</Kommunenr>
+			<Kommunenavn>Ringerike kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0612</Kommunenr>
+			<Kommunenavn>Hole kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0615</Kommunenr>
+			<Kommunenavn>Flå kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0616</Kommunenr>
+			<Kommunenavn>Nes kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0617</Kommunenr>
+			<Kommunenavn>Gol kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0618</Kommunenr>
+			<Kommunenavn>Hemsedal kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0619</Kommunenr>
+			<Kommunenavn>Ål kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0620</Kommunenr>
+			<Kommunenavn>Hol kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0621</Kommunenr>
+			<Kommunenavn>Sigdal kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0622</Kommunenr>
+			<Kommunenavn>Krødsherad kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0623</Kommunenr>
+			<Kommunenavn>Modum kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0624</Kommunenr>
+			<Kommunenavn>Øvre Eiker kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0625</Kommunenr>
+			<Kommunenavn>Nedre Eiker kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0626</Kommunenr>
+			<Kommunenavn>Lier kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0627</Kommunenr>
+			<Kommunenavn>Røyken kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0628</Kommunenr>
+			<Kommunenavn>Hurum kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0631</Kommunenr>
+			<Kommunenavn>Flesberg kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0632</Kommunenr>
+			<Kommunenavn>Rollag kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0633</Kommunenr>
+			<Kommunenavn>Nore og Uvdal kommune</Kommunenavn>
+			<Fylke>Buskerud</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0701</Kommunenr>
+			<Kommunenavn>Horten kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0702</Kommunenr>
+			<Kommunenavn>Holmestrand kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0704</Kommunenr>
+			<Kommunenavn>Tønsberg kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0706</Kommunenr>
+			<Kommunenavn>Sandefjord kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0709</Kommunenr>
+			<Kommunenavn>Larvik kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0711</Kommunenr>
+			<Kommunenavn>Svelvik kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0713</Kommunenr>
+			<Kommunenavn>Sande kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0714</Kommunenr>
+			<Kommunenavn>Hof kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0716</Kommunenr>
+			<Kommunenavn>Re kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0719</Kommunenr>
+			<Kommunenavn>Andebu kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0720</Kommunenr>
+			<Kommunenavn>Stokke kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0722</Kommunenr>
+			<Kommunenavn>Nøtterøy kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0723</Kommunenr>
+			<Kommunenavn>Tjøme kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0728</Kommunenr>
+			<Kommunenavn>Lardal kommune</Kommunenavn>
+			<Fylke>Vestfold</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0805</Kommunenr>
+			<Kommunenavn>Porsgrunn kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0806</Kommunenr>
+			<Kommunenavn>Skien kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0807</Kommunenr>
+			<Kommunenavn>Notodden kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0811</Kommunenr>
+			<Kommunenavn>Siljan kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0814</Kommunenr>
+			<Kommunenavn>Bamble kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0815</Kommunenr>
+			<Kommunenavn>Kragerø kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0817</Kommunenr>
+			<Kommunenavn>Drangedal kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0819</Kommunenr>
+			<Kommunenavn>Nome kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0821</Kommunenr>
+			<Kommunenavn>Bø kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0822</Kommunenr>
+			<Kommunenavn>Sauherad kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0826</Kommunenr>
+			<Kommunenavn>Tinn kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0827</Kommunenr>
+			<Kommunenavn>Hjartdal kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0828</Kommunenr>
+			<Kommunenavn>Seljord kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0829</Kommunenr>
+			<Kommunenavn>Kviteseid kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0830</Kommunenr>
+			<Kommunenavn>Nissedal kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0831</Kommunenr>
+			<Kommunenavn>Fyresdal kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0833</Kommunenr>
+			<Kommunenavn>Tokke kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0834</Kommunenr>
+			<Kommunenavn>Vinje kommune</Kommunenavn>
+			<Fylke>Telemark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0901</Kommunenr>
+			<Kommunenavn>Risør kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0904</Kommunenr>
+			<Kommunenavn>Grimstad kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0906</Kommunenr>
+			<Kommunenavn>Arendal kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0911</Kommunenr>
+			<Kommunenavn>Gjerstad kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0912</Kommunenr>
+			<Kommunenavn>Vegårshei kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0914</Kommunenr>
+			<Kommunenavn>Tvedestrand kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0919</Kommunenr>
+			<Kommunenavn>Froland kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0926</Kommunenr>
+			<Kommunenavn>Lillesand kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0928</Kommunenr>
+			<Kommunenavn>Birkenes kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0929</Kommunenr>
+			<Kommunenavn>Åmli kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0935</Kommunenr>
+			<Kommunenavn>Iveland kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0937</Kommunenr>
+			<Kommunenavn>Evje og Hornnes kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0938</Kommunenr>
+			<Kommunenavn>Bygland kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0940</Kommunenr>
+			<Kommunenavn>Valle kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>0941</Kommunenr>
+			<Kommunenavn>Bykle kommune</Kommunenavn>
+			<Fylke>Aust-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1001</Kommunenr>
+			<Kommunenavn>Kristiansand kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1002</Kommunenr>
+			<Kommunenavn>Mandal kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1003</Kommunenr>
+			<Kommunenavn>Farsund kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1004</Kommunenr>
+			<Kommunenavn>Flekkefjord kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1014</Kommunenr>
+			<Kommunenavn>Vennesla kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1017</Kommunenr>
+			<Kommunenavn>Songdalen kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1018</Kommunenr>
+			<Kommunenavn>Søgne kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1021</Kommunenr>
+			<Kommunenavn>Marnardal kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1026</Kommunenr>
+			<Kommunenavn>Åseral kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1027</Kommunenr>
+			<Kommunenavn>Audnedal kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1029</Kommunenr>
+			<Kommunenavn>Lindesnes kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1032</Kommunenr>
+			<Kommunenavn>Lyngdal kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1034</Kommunenr>
+			<Kommunenavn>Hægebostad kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1037</Kommunenr>
+			<Kommunenavn>Kvinesdal kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1046</Kommunenr>
+			<Kommunenavn>Sirdal kommune</Kommunenavn>
+			<Fylke>Vest-Agder</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1101</Kommunenr>
+			<Kommunenavn>Eigersund kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1102</Kommunenr>
+			<Kommunenavn>Sandnes kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1103</Kommunenr>
+			<Kommunenavn>Stavanger kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1106</Kommunenr>
+			<Kommunenavn>Haugesund kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1111</Kommunenr>
+			<Kommunenavn>Sokndal kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1112</Kommunenr>
+			<Kommunenavn>Lund kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1114</Kommunenr>
+			<Kommunenavn>Bjerkreim kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1119</Kommunenr>
+			<Kommunenavn>Hå kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1120</Kommunenr>
+			<Kommunenavn>Klepp kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1121</Kommunenr>
+			<Kommunenavn>Time kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1122</Kommunenr>
+			<Kommunenavn>Gjesdal kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1124</Kommunenr>
+			<Kommunenavn>Sola kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1127</Kommunenr>
+			<Kommunenavn>Randaberg kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1129</Kommunenr>
+			<Kommunenavn>Forsand kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1130</Kommunenr>
+			<Kommunenavn>Strand kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1133</Kommunenr>
+			<Kommunenavn>Hjelmeland kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1134</Kommunenr>
+			<Kommunenavn>Suldal kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1135</Kommunenr>
+			<Kommunenavn>Sauda kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1141</Kommunenr>
+			<Kommunenavn>Finnøy kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1142</Kommunenr>
+			<Kommunenavn>Rennesøy kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1144</Kommunenr>
+			<Kommunenavn>Kvitsøy kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1145</Kommunenr>
+			<Kommunenavn>Bokn kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1146</Kommunenr>
+			<Kommunenavn>Tysvær kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1149</Kommunenr>
+			<Kommunenavn>Karmøy kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1151</Kommunenr>
+			<Kommunenavn>Utsira kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1160</Kommunenr>
+			<Kommunenavn>Vindafjord kommune</Kommunenavn>
+			<Fylke>Rogaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1201</Kommunenr>
+			<Kommunenavn>Bergen kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1211</Kommunenr>
+			<Kommunenavn>Etne kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1216</Kommunenr>
+			<Kommunenavn>Sveio kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1219</Kommunenr>
+			<Kommunenavn>Bømlo kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1221</Kommunenr>
+			<Kommunenavn>Stord kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1222</Kommunenr>
+			<Kommunenavn>Fitjar kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1223</Kommunenr>
+			<Kommunenavn>Tysnes kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1224</Kommunenr>
+			<Kommunenavn>Kvinnherad kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1227</Kommunenr>
+			<Kommunenavn>Jondal kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1228</Kommunenr>
+			<Kommunenavn>Odda kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1231</Kommunenr>
+			<Kommunenavn>Ullensvang herad</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1232</Kommunenr>
+			<Kommunenavn>Eidfjord kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1233</Kommunenr>
+			<Kommunenavn>Ulvik herad</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1234</Kommunenr>
+			<Kommunenavn>Granvin herad</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1235</Kommunenr>
+			<Kommunenavn>Voss kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1238</Kommunenr>
+			<Kommunenavn>Kvam herad</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1241</Kommunenr>
+			<Kommunenavn>Fusa kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1242</Kommunenr>
+			<Kommunenavn>Samnanger kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1243</Kommunenr>
+			<Kommunenavn>Os kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1244</Kommunenr>
+			<Kommunenavn>Austevoll kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1245</Kommunenr>
+			<Kommunenavn>Sund kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1246</Kommunenr>
+			<Kommunenavn>Fjell kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1247</Kommunenr>
+			<Kommunenavn>Askøy kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1251</Kommunenr>
+			<Kommunenavn>Vaksdal kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1252</Kommunenr>
+			<Kommunenavn>Modalen kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1253</Kommunenr>
+			<Kommunenavn>Osterøy kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1256</Kommunenr>
+			<Kommunenavn>Meland kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1259</Kommunenr>
+			<Kommunenavn>Øygarden kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1260</Kommunenr>
+			<Kommunenavn>Radøy kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1263</Kommunenr>
+			<Kommunenavn>Lindås kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1264</Kommunenr>
+			<Kommunenavn>Austrheim kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1265</Kommunenr>
+			<Kommunenavn>Fedje kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1266</Kommunenr>
+			<Kommunenavn>Masfjorden kommune</Kommunenavn>
+			<Fylke>Hordaland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1401</Kommunenr>
+			<Kommunenavn>Flora kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1411</Kommunenr>
+			<Kommunenavn>Gulen kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1412</Kommunenr>
+			<Kommunenavn>Solund kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1413</Kommunenr>
+			<Kommunenavn>Hyllestad kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1416</Kommunenr>
+			<Kommunenavn>Høyanger kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1417</Kommunenr>
+			<Kommunenavn>Vik kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1418</Kommunenr>
+			<Kommunenavn>Balestrand kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1419</Kommunenr>
+			<Kommunenavn>Leikanger kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1420</Kommunenr>
+			<Kommunenavn>Sogndal kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1421</Kommunenr>
+			<Kommunenavn>Aurland kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1422</Kommunenr>
+			<Kommunenavn>Lærdal kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1424</Kommunenr>
+			<Kommunenavn>Årdal kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1426</Kommunenr>
+			<Kommunenavn>Luster kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1428</Kommunenr>
+			<Kommunenavn>Askvoll kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1429</Kommunenr>
+			<Kommunenavn>Fjaler kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1430</Kommunenr>
+			<Kommunenavn>Gaular kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1431</Kommunenr>
+			<Kommunenavn>Jølster kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1432</Kommunenr>
+			<Kommunenavn>Førde kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1433</Kommunenr>
+			<Kommunenavn>Naustdal kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1438</Kommunenr>
+			<Kommunenavn>Bremanger kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1439</Kommunenr>
+			<Kommunenavn>Vågsøy kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1441</Kommunenr>
+			<Kommunenavn>Selje kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1443</Kommunenr>
+			<Kommunenavn>Eid kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1444</Kommunenr>
+			<Kommunenavn>Hornindal kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1445</Kommunenr>
+			<Kommunenavn>Gloppen kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1449</Kommunenr>
+			<Kommunenavn>Stryn kommune</Kommunenavn>
+			<Fylke>Sogn og Fjordane</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1502</Kommunenr>
+			<Kommunenavn>Molde kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1504</Kommunenr>
+			<Kommunenavn>Ålesund kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1505</Kommunenr>
+			<Kommunenavn>Kristiansund kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1511</Kommunenr>
+			<Kommunenavn>Vanylven kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1514</Kommunenr>
+			<Kommunenavn>Sande kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1515</Kommunenr>
+			<Kommunenavn>Herøy kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1516</Kommunenr>
+			<Kommunenavn>Ulstein kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1517</Kommunenr>
+			<Kommunenavn>Hareid kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1519</Kommunenr>
+			<Kommunenavn>Volda kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1520</Kommunenr>
+			<Kommunenavn>Ørsta kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1523</Kommunenr>
+			<Kommunenavn>Ørskog kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1524</Kommunenr>
+			<Kommunenavn>Norddal kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1525</Kommunenr>
+			<Kommunenavn>Stranda kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1526</Kommunenr>
+			<Kommunenavn>Stordal kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1528</Kommunenr>
+			<Kommunenavn>Sykkylven kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1529</Kommunenr>
+			<Kommunenavn>Skodje kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1531</Kommunenr>
+			<Kommunenavn>Sula kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1532</Kommunenr>
+			<Kommunenavn>Giske kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1534</Kommunenr>
+			<Kommunenavn>Haram kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1535</Kommunenr>
+			<Kommunenavn>Vestnes kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1539</Kommunenr>
+			<Kommunenavn>Rauma kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1543</Kommunenr>
+			<Kommunenavn>Nesset kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1545</Kommunenr>
+			<Kommunenavn>Midsund kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1546</Kommunenr>
+			<Kommunenavn>Sandøy kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1547</Kommunenr>
+			<Kommunenavn>Aukra kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1548</Kommunenr>
+			<Kommunenavn>Fræna kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1551</Kommunenr>
+			<Kommunenavn>Eide kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1554</Kommunenr>
+			<Kommunenavn>Averøy kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1557</Kommunenr>
+			<Kommunenavn>Gjemnes kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1560</Kommunenr>
+			<Kommunenavn>Tingvoll kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1563</Kommunenr>
+			<Kommunenavn>Sunndal kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1566</Kommunenr>
+			<Kommunenavn>Surnadal kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1567</Kommunenr>
+			<Kommunenavn>Rindal kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1571</Kommunenr>
+			<Kommunenavn>Halsa kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1573</Kommunenr>
+			<Kommunenavn>Smøla kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1576</Kommunenr>
+			<Kommunenavn>Aure kommune</Kommunenavn>
+			<Fylke>Møre og Romsdal</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1601</Kommunenr>
+			<Kommunenavn>Trondheim kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1612</Kommunenr>
+			<Kommunenavn>Hemne kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1613</Kommunenr>
+			<Kommunenavn>Snillfjord kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1617</Kommunenr>
+			<Kommunenavn>Hitra kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1620</Kommunenr>
+			<Kommunenavn>Frøya kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1621</Kommunenr>
+			<Kommunenavn>Ørland kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1622</Kommunenr>
+			<Kommunenavn>Agdenes kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1624</Kommunenr>
+			<Kommunenavn>Rissa kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1627</Kommunenr>
+			<Kommunenavn>Bjugn kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1630</Kommunenr>
+			<Kommunenavn>Åfjord kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1632</Kommunenr>
+			<Kommunenavn>Roan kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1633</Kommunenr>
+			<Kommunenavn>Osen kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1634</Kommunenr>
+			<Kommunenavn>Oppdal kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1635</Kommunenr>
+			<Kommunenavn>Rennebu kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1636</Kommunenr>
+			<Kommunenavn>Meldal kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1638</Kommunenr>
+			<Kommunenavn>Orkdal kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1640</Kommunenr>
+			<Kommunenavn>Røros kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1644</Kommunenr>
+			<Kommunenavn>Holtålen kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1648</Kommunenr>
+			<Kommunenavn>Midtre Gauldal kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1653</Kommunenr>
+			<Kommunenavn>Melhus kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1657</Kommunenr>
+			<Kommunenavn>Skaun kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1662</Kommunenr>
+			<Kommunenavn>Klæbu kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1663</Kommunenr>
+			<Kommunenavn>Malvik kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1664</Kommunenr>
+			<Kommunenavn>Selbu kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1665</Kommunenr>
+			<Kommunenavn>Tydal kommune</Kommunenavn>
+			<Fylke>Sør-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1702</Kommunenr>
+			<Kommunenavn>Steinkjer kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1703</Kommunenr>
+			<Kommunenavn>Namsos kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1711</Kommunenr>
+			<Kommunenavn>Meråker kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1714</Kommunenr>
+			<Kommunenavn>Stjørdal kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1717</Kommunenr>
+			<Kommunenavn>Frosta kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1718</Kommunenr>
+			<Kommunenavn>Leksvik kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1719</Kommunenr>
+			<Kommunenavn>Levanger kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1721</Kommunenr>
+			<Kommunenavn>Verdal kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1724</Kommunenr>
+			<Kommunenavn>Verran kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1725</Kommunenr>
+			<Kommunenavn>Namdalseid kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1736</Kommunenr>
+			<Kommunenavn>Snåsa kommune / Snåasen tjielte</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1738</Kommunenr>
+			<Kommunenavn>Lierne kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1739</Kommunenr>
+			<Kommunenavn>Røyrvik kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1740</Kommunenr>
+			<Kommunenavn>Namsskogan kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1742</Kommunenr>
+			<Kommunenavn>Grong kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1743</Kommunenr>
+			<Kommunenavn>Høylandet kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1744</Kommunenr>
+			<Kommunenavn>Overhalla kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1748</Kommunenr>
+			<Kommunenavn>Fosnes kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1749</Kommunenr>
+			<Kommunenavn>Flatanger kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1750</Kommunenr>
+			<Kommunenavn>Vikna kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1751</Kommunenr>
+			<Kommunenavn>Nærøy kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1755</Kommunenr>
+			<Kommunenavn>Leka kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1756</Kommunenr>
+			<Kommunenavn>Inderøy kommune</Kommunenavn>
+			<Fylke>Nord-Trøndelag</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1804</Kommunenr>
+			<Kommunenavn>Bodø kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1805</Kommunenr>
+			<Kommunenavn>Narvik kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1811</Kommunenr>
+			<Kommunenavn>Bindal kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1812</Kommunenr>
+			<Kommunenavn>Sømna kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1813</Kommunenr>
+			<Kommunenavn>Brønnøy kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1815</Kommunenr>
+			<Kommunenavn>Vega kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1816</Kommunenr>
+			<Kommunenavn>Vevelstad kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1818</Kommunenr>
+			<Kommunenavn>Herøy kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1820</Kommunenr>
+			<Kommunenavn>Alstahaug kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1822</Kommunenr>
+			<Kommunenavn>Leirfjord kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1824</Kommunenr>
+			<Kommunenavn>Vefsn kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1825</Kommunenr>
+			<Kommunenavn>Grane kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1826</Kommunenr>
+			<Kommunenavn>Hattfjelldal kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1827</Kommunenr>
+			<Kommunenavn>Dønna kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1828</Kommunenr>
+			<Kommunenavn>Nesna kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1832</Kommunenr>
+			<Kommunenavn>Hemnes kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1833</Kommunenr>
+			<Kommunenavn>Rana kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1834</Kommunenr>
+			<Kommunenavn>Lurøy kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1835</Kommunenr>
+			<Kommunenavn>Træna kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1836</Kommunenr>
+			<Kommunenavn>Rødøy kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1837</Kommunenr>
+			<Kommunenavn>Meløy kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1838</Kommunenr>
+			<Kommunenavn>Gildeskål kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1839</Kommunenr>
+			<Kommunenavn>Beiarn kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1840</Kommunenr>
+			<Kommunenavn>Saltdal kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1841</Kommunenr>
+			<Kommunenavn>Fauske kommune / Fuosko suohkan</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1845</Kommunenr>
+			<Kommunenavn>Sørfold kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1848</Kommunenr>
+			<Kommunenavn>Steigen kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1849</Kommunenr>
+			<Kommunenavn>Hamarøy kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1850</Kommunenr>
+			<Kommunenavn>Tysfjord kommune / Divtasvuona suohkan</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1851</Kommunenr>
+			<Kommunenavn>Lødingen kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1852</Kommunenr>
+			<Kommunenavn>Tjeldsund kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1853</Kommunenr>
+			<Kommunenavn>Evenes kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1854</Kommunenr>
+			<Kommunenavn>Ballangen kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1856</Kommunenr>
+			<Kommunenavn>Røst kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1857</Kommunenr>
+			<Kommunenavn>Værøy kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1859</Kommunenr>
+			<Kommunenavn>Flakstad kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1860</Kommunenr>
+			<Kommunenavn>Vestvågøy kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1865</Kommunenr>
+			<Kommunenavn>Vågan kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1866</Kommunenr>
+			<Kommunenavn>Hadsel kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1867</Kommunenr>
+			<Kommunenavn>Bø kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1868</Kommunenr>
+			<Kommunenavn>Øksnes kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1870</Kommunenr>
+			<Kommunenavn>Sortland kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1871</Kommunenr>
+			<Kommunenavn>Andøy kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1874</Kommunenr>
+			<Kommunenavn>Moskenes kommune</Kommunenavn>
+			<Fylke>Nordland</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1902</Kommunenr>
+			<Kommunenavn>Tromsø kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1903</Kommunenr>
+			<Kommunenavn>Harstad kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1911</Kommunenr>
+			<Kommunenavn>Kvæfjord kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1913</Kommunenr>
+			<Kommunenavn>Skånland kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1917</Kommunenr>
+			<Kommunenavn>Ibestad kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1919</Kommunenr>
+			<Kommunenavn>Gratangen kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1920</Kommunenr>
+			<Kommunenavn>Lavangen kommune / Loabága suohkan</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1922</Kommunenr>
+			<Kommunenavn>Bardu kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1923</Kommunenr>
+			<Kommunenavn>Salangen kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1924</Kommunenr>
+			<Kommunenavn>Målselv kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1925</Kommunenr>
+			<Kommunenavn>Sørreisa kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1926</Kommunenr>
+			<Kommunenavn>Dyrøy kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1927</Kommunenr>
+			<Kommunenavn>Tranøy kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1928</Kommunenr>
+			<Kommunenavn>Torsken kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1929</Kommunenr>
+			<Kommunenavn>Berg kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1931</Kommunenr>
+			<Kommunenavn>Lenvik kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1933</Kommunenr>
+			<Kommunenavn>Balsfjord kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1936</Kommunenr>
+			<Kommunenavn>Karlsøy kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1938</Kommunenr>
+			<Kommunenavn>Lyngen kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1939</Kommunenr>
+			<Kommunenavn>Storfjord kommune / Omasvouna souhkan</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1940</Kommunenr>
+			<Kommunenavn>Kåfjord kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1941</Kommunenr>
+			<Kommunenavn>Skjervøy kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1942</Kommunenr>
+			<Kommunenavn>Nordreisa kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>1943</Kommunenr>
+			<Kommunenavn>Kvænangen kommune</Kommunenavn>
+			<Fylke>Troms</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2002</Kommunenr>
+			<Kommunenavn>Vardø kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2003</Kommunenr>
+			<Kommunenavn>Vadsø kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2004</Kommunenr>
+			<Kommunenavn>Hammerfest kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2011</Kommunenr>
+			<Kommunenavn>Kautokeino kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2012</Kommunenr>
+			<Kommunenavn>Alta kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2014</Kommunenr>
+			<Kommunenavn>Loppa kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2015</Kommunenr>
+			<Kommunenavn>Hasvik kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2017</Kommunenr>
+			<Kommunenavn>Kvalsund kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2018</Kommunenr>
+			<Kommunenavn>Måsøy kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2019</Kommunenr>
+			<Kommunenavn>Nordkapp kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2020</Kommunenr>
+			<Kommunenavn>Porsanger kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2021</Kommunenr>
+			<Kommunenavn>Karasjok kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2022</Kommunenr>
+			<Kommunenavn>Lebesby kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2023</Kommunenr>
+			<Kommunenavn>Gamvik kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2024</Kommunenr>
+			<Kommunenavn>Berlevåg kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2025</Kommunenr>
+			<Kommunenavn>Tana kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2027</Kommunenr>
+			<Kommunenavn>Nesseby kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2028</Kommunenr>
+			<Kommunenavn>Båtsfjord kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2030</Kommunenr>
+			<Kommunenavn>Sør-Varanger kommune</Kommunenavn>
+			<Fylke>Finnmark</Fylke>
+		</Kommune>
+		<Kommune>
+			<Kommunenr>2111</Kommunenr>
+			<Kommunenavn>Longyearbyen lokalstyre</Kommunenavn>
+			<Fylke>Svalbard</Fylke>
+		</Kommune>
+	</Kommuner>
